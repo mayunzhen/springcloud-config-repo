@@ -20,4 +20,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/,http://localhost:7003/eureka/
 # 配置客户端输出演示用
-info: git-config-client-dev
+info: gitee-config-client-dev
